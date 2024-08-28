@@ -138,5 +138,5 @@ pip install -r requirements.txt
 5. **Run the project:***
 
 ```bash
-python predict.ipynb
+python ms5.ipynb
 ```
