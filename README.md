@@ -138,5 +138,5 @@ pip install -r requirements.txt
 5. **Run the project:***
 
 ```bash
-python ms5.ipynb
+jupyter notebook ms5.ipynb
 ```
