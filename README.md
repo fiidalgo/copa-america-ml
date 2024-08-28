@@ -135,8 +135,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-5. **Run the project:***
-
-```bash
-jupyter notebook ms5.ipynb
-```
+5. **Run the project**
